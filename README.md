@@ -24,7 +24,7 @@ There are five Environments, each for:
 
 ## To install the gym environment, run:
 ```
-git clone git@github.com:neel-singhania/Foraging_DRL_Project
+git clone git@github.com:Exploration-Lab/CS698R-Project-Patch-Leaving-Decisions-1
 cd gym-env
 pip install -e .
 ```
