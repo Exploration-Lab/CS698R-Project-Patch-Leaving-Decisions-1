@@ -1,6 +1,7 @@
 # Foraging_DRL_Project
 
-This is the group project of the courrse CS698R **Deep Reinforcement Learning** which explores the performance of various RL agents on a patch foraging environment. <br>
+This is the group project of Group 1 of the course CS698R **Deep Reinforcement Learning** which explores the performance of various RL agents on a patch foraging environment. Our problem focuses on solitary foraging. We are trying to answer how an animal feeding on a particular food patch, and hence depleting it, decides when it is optimal to leave the patch in search of a richer one, provided that it has only a finite amount of time to forage in that environment. An example rendering of one of the variants of the given environment for our problem can be seen through this link: https://youtu.be/qRH_PKusOIw <br>
+We have implemented various conventional RL algorithms and deep RL algorithms to solve the given problem which is specified below.<br>
 
 The code implementation for **Multi Arm Bandit** is in the `MAB_agents.ipynb` notebook. The notebook implements the problem as a multi arm bandit problem where each arm represents the number of times each patch must be harvested before the agent moves on to the next patch.<br>
 
